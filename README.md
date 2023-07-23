@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer with a strong focus on Backend development
 - **Languages:** JavaScript, TypeScript, HTML, CSS, SCSS
 - **Backend Framework:** Node.js, NestJS
 - **Frontend Frameworks:** React, Angular, Next.js
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, MySQL, PostgreSQL
 - **Version Control:** Git
 
 ## 🔍 What Drives Me
