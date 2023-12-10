@@ -1,30 +1,55 @@
-# Hello, I'm Slipum 👋
+<h2> Hey there! I'm Slipum.</h2>
 
 > "What I cannot create, I do not understand." - Richard Feynman
 
-I'm a passionate Full Stack Developer with a strong focus on Backend development ⚙️ and a keen interest in Frontend 🎨, especially when it comes to JavaScript and TypeScript ❤️. I love building innovative and efficient solutions to real-world problems and constantly strive to deepen my understanding of technology.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-## 💻 What I Do
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University.
+- 💼 &nbsp; Develop robust and scalable Backend applications using cutting edge technologies.
+- 🌱 &nbsp; Create delightful and intuitive Frontend interfaces using JavaScript and TypeScript.
+- ✍️ &nbsp; Develop graphic design for my Full-Stack projects.
 
-- Develop robust and scalable Backend applications using cutting-edge technologies.
-- Craft delightful and intuitive Frontend interfaces with JavaScript and TypeScript.
-- Work on end-to-end project development, from conceptualization to deployment.
-- Collaborate with talented teams to create exceptional software products.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-## 🛠️ Tech Stack
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C (Statistics)](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, SCSS
-- **Backend Framework:** Node.js, NestJS
-- **Frontend Frameworks:** React, Angular, Next.js
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Version Control:** Git
+<br/>
 
-## 🔍 What Drives Me
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Slipum&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slipum&theme=buefy&layout=compact" />
+</a>
 
-I'm fueled by the desire to learn and grow in the ever-evolving world of technology. Solving complex problems and turning ideas into reality motivates me every day. I believe in the power of code to transform lives and make a positive impact on the world.
+<br/>
 
-## 📈 Let's Connect
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-I'm always excited to connect with like-minded individuals, collaborate on interesting projects, and share knowledge. Feel free to reach out to me through [Reddit](https://www.reddit.com/user/Slipum) or [Twitter](https://twitter.com/Slipum).
-
-Let's build something awesome together! 💪🚀
+<p align="center">
+<a href="https://www.reddit.com/user/Slipum"><img alt=reddit src="https://img.shields.io/badge/-Reddit-333333?style=flat&logo=reddit" /></a>
+<a href="https://twitter.com/Slipum"><img alt=reddit src="https://img.shields.io/badge/-X-333333?style=flat&logo=x" /></a>
+</p>
