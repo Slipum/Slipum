@@ -4,6 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=30&duration=6000&pause=800&color=3D3F6B&random=false&width=435&lines=I+am+a+FullStack+Developer)](https://git.io/typing-svg)
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University.
 - 💼 &nbsp; Develop robust and scalable Backend applications using cutting edge technologies.
