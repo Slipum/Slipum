@@ -38,7 +38,7 @@
 <p align="left">
 <a href="http://www.github.com/slipum"><img src="https://github-readme-stats.vercel.app/api?username=slipum&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="slipum's GitHub stats" /></a>
 <a href="http://www.github.com/slipum"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=slipum&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Slipum&layout=compact&langs_count=8&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" /></a>
 </p>
 
 ### Socials
