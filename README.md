@@ -43,13 +43,13 @@
 
 </p>
 
-<br/>
+<!-- <br/>
 
 <p align="left">
 <a href="http://www.github.com/slipum"><img src="https://github-readme-stats.vercel.app/api?username=slipum&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="slipum's GitHub stats" /></a>
 <a href="http://www.github.com/slipum"><img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Slipum&layout=compact&langs_count=8&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" /></a>
-</p>
+</p> -->
 
 ![](https://leetcard.jacoblin.cool/Slipum?theme=nord)
 
