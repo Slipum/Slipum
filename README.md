@@ -16,8 +16,8 @@
 - 🔭 Building Full-Stack applications
 - ⚙️ Interested in Software Architecture & Design Patterns
 - 🚀 Learning DevOps, Cloud and Distributed Systems
-- 🎯 Focused on C++, TypeScript, Next.js and NestJS
-- 🐧 Linux & macOS user
+- 🎯 Transitioning from Frontend Development to C++, Software Architecture and DevOps.
+- 🐧 macOS & Linux user
 
 ---
 
