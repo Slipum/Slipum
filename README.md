@@ -1,75 +1,70 @@
-<h2> Hey there! I'm Slipum.</h2>
-
-> "What I cannot create, I do not understand." - Richard Feynman
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=30&duration=6000&pause=800&color=3D3F6B&random=false&width=435&lines=I+am+a+FullStack+Developer)](https://git.io/typing-svg)
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-<p align='left'>
-
-- **Languages**
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
-  
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a></p>        
-
-- **Frameworks**
-
-<p align="left">
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a>
-
-- **My favorite OS**
-
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://archlinux.org/static/favicon.51c13517c44c.png" width="36" height="36" alt="Arch-Linux" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-
-- **Code editors**
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a>
-
-- **DevOps**
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/terraform-icon-zp95oytvn5ci8lsub9sbeh.png/terraform-icon-tew8r4clf5ocvoyj0o05j.png?_a=DATAiZAAZAA0" alt="Terraform" title="Terraform" width="36" height="36" /></a>
-<a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"><img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2389%2FPNG%2F512%2Fansible_logo_icon_145495.png&id=145495&pack_or_individual=pack" alt="Ansible" title="Ansible" width="36" height="36" /></a>
-
-- **Other**
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img width="36" height="36" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" /></a>
-
-</p>
-
-<!-- <br/>
-
-<p align="left">
-<a href="http://www.github.com/slipum"><img src="https://github-readme-stats.vercel.app/api?username=slipum&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="slipum's GitHub stats" /></a>
-<a href="http://www.github.com/slipum"><img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Slipum&layout=compact&langs_count=8&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" /></a>
-</p> -->
-
-![](https://leetcard.jacoblin.cool/Slipum?theme=nord)
-
-### Socials
+<h1 align="center">Hi 👋, I'm Slipum</h1>
 
 <p align="center">
-<a href="https://www.github.com/slipum" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.x.com/slipum" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</picture>
-</a>
+  <i>"What I cannot create, I do not understand."</i><br>
+  — Richard Feynman
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&duration=5000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;C%2B%2B+Enthusiast;DevOps+Learner;Open+Source+Contributor" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Building Full-Stack applications
+- ⚙️ Interested in Software Architecture & Design Patterns
+- 🚀 Learning DevOps, Cloud and Distributed Systems
+- 🎯 Focused on C++, TypeScript, Next.js and NestJS
+- 🐧 Linux & macOS user
+
+---
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,python,bash" />
+</p>
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,terraform,ansible" />
+</p>
+
+---
+
+## 🐧 Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,debian" />
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,qt,spring,nodejs,react,tailwind,vite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=clion,vim,vscode,figma" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis" />
+</p>
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Slipum?theme=nord" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slipum&theme=github-compact" />
 </p>
