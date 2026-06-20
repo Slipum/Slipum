@@ -20,7 +20,7 @@
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,python,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,ts,js,bash,python" />
 </p>
 
 ## ☁️ DevOps & Infrastructure
