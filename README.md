@@ -11,16 +11,17 @@
 
 ## 👨‍💻 About Me
 
+- 🔥 I want to know everything!
 - 🔭 Building Full-Stack applications
 - ⚙️ Interested in Software Architecture & Design Patterns
 - 🚀 Learning DevOps, Cloud and Distributed Systems
-- 🎯 Transitioning from Frontend Development to C++, Software Architecture and DevOps.
+- 🎯 Transitioning from Frontend Development to Backend, Software Architecture and DevOps.
 - 🐧 macOS & Linux user
 
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,go,ts,js,bash,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,rust,go,ts,js,bash,python" />
 </p>
 
 ## ☁️ DevOps & Infrastructure
