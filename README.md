@@ -12,6 +12,8 @@
 <p align="center">
   <img src="assets/banner.svg" />
 </p>
+
+
 ## 👨‍💻 About Me
 
 - 🔥 I want to know everything!
