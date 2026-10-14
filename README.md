@@ -59,6 +59,6 @@
   <img src="https://leetcard.jacoblin.cool/Slipum?theme=nord" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=slipum&theme=github-compact" />
-</p>
+</p> -->
