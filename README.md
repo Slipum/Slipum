@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Slipum</h1>
+<!-- <h1 align="center">Hi 👋, I'm Slipum</h1>
 
 <p align="center">
   <i>"What I cannot create, I do not understand."</i><br>
@@ -7,8 +7,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&duration=5000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;C%2B%2B+Enthusiast;DevOps+Learner;Open+Source+Contributor" />
-</p>
+</p> -->
 
+<p align="center">
+  <img src="assets/banner.svg" />
+</p>
 ## 👨‍💻 About Me
 
 - 🔥 I want to know everything!
